@@ -1,0 +1,26 @@
+
+    body{
+        background-color: white;
+        text-align: center;
+        font-style: italic;
+    }
+
+button{
+    width: 100px;
+    height: 20px;
+    background-color: bisque;
+    border: 3px solid;
+    
+    
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+p{
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+}
